@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/viz/static/css/main.e990a5f1.chunk.css",
+    "main.js": "/viz/static/js/main.e39621a8.chunk.js",
+    "main.js.map": "/viz/static/js/main.e39621a8.chunk.js.map",
+    "runtime-main.js": "/viz/static/js/runtime-main.92e656d3.js",
+    "runtime-main.js.map": "/viz/static/js/runtime-main.92e656d3.js.map",
+    "static/css/2.f2850afe.chunk.css": "/viz/static/css/2.f2850afe.chunk.css",
+    "static/js/2.5178c885.chunk.js": "/viz/static/js/2.5178c885.chunk.js",
+    "static/js/2.5178c885.chunk.js.map": "/viz/static/js/2.5178c885.chunk.js.map",
+    "index.html": "/viz/index.html",
+    "precache-manifest.0910112b10692bc0461451517f06e56f.js": "/viz/precache-manifest.0910112b10692bc0461451517f06e56f.js",
+    "service-worker.js": "/viz/service-worker.js",
+    "static/css/2.f2850afe.chunk.css.map": "/viz/static/css/2.f2850afe.chunk.css.map",
+    "static/css/main.e990a5f1.chunk.css.map": "/viz/static/css/main.e990a5f1.chunk.css.map",
+    "static/media/avg.jpeg": "/viz/static/media/avg.5e705c37.jpeg",
+    "static/media/cones.png": "/viz/static/media/cones.6a85887d.png",
+    "static/media/graph.png": "/viz/static/media/graph.cd84b857.png",
+    "static/media/rgb.png": "/viz/static/media/rgb.bd51bd33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e656d3.js",
+    "static/css/2.f2850afe.chunk.css",
+    "static/js/2.5178c885.chunk.js",
+    "static/css/main.e990a5f1.chunk.css",
+    "static/js/main.e39621a8.chunk.js"
+  ]
+}
