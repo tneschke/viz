@@ -2,6 +2,19 @@
   height: 40vmin;
 }
 
+clipPath rect{
+  width: 100px;
+}
+
+g{
+  width: inherit;
+}
+
+tspan{
+  font-size: 16px;
+  font: Helvetica;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -17,6 +30,30 @@
   color: #09d3ac;
 }
 
+rect{
+  transition: ease-out .6s;
+}
+
+rect:hover{
+  box-shadow: 5px 10px #888888;
+    fill: #bfe4ff;
+
+
+}
+
+.title{
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.subtitle{
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: -40px;
+}
+
 .App {
   margin-top: 15px;
 }
@@ -28,7 +65,7 @@
 .container {
   width: 100vw;
   height: 100vh;
-  padding: 0px;
+  padding: 30px;
 }
 
 .header {
@@ -48,9 +85,15 @@ div[style*="margin-top: 20px;"] {
   display: none;
 }
 
+
+
 .slider-picker {
   width: 100%;
   margin-top: 40px;
+}
+
+text {
+  transform: scale(1);
 }
 
 .color-test {
